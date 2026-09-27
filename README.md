@@ -1,4 +1,4 @@
-# proyecto: materia Programación para Analítica de Datos - Flight Delay Dashboard
+# Materia Programación para Analítica de Datos - Flight Delay Dashboard
 
 ## URL pública
 
