@@ -2,7 +2,7 @@
 
 ## URL pública
 
-https://<https://stefania-duarte-flight-dashboard.onrender.com/>
+<https://stefania-duarte-flight-dashboard.onrender.com/>
 
 ## Descripción
 
